@@ -41,7 +41,7 @@ One bottom title | Two bottom titles | Destructive titles | More than two bottom
 ```
 
 <br/>
-##中文介绍
+## 中文介绍
 
 `MXActionSheet` 是一个从底部上来的弹窗控件，仿微信里操作一样!
 
